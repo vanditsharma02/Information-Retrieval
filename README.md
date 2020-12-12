@@ -1,6 +1,8 @@
 # Information-Retrieval
 The Solution for Information Retrieval Assignments (CS60092) Autumn 2020 at IIT Kharagpur. This repository is organized as follows-
 
-- A1 - Used Spark and Scala to perform big data processing and answer queries on the provided dataset.
-- A2 - Analyzed the accuracies of frequent count streaming algorithms such as Misra-Gries, Space Saving, and Count-min sketch on various generated streams w.r.t. respective distribution entropy. 
-- A3 - Implemented different gradient descent optimisation methods such as Mini-Batch, Adam, etc. discussed in class as part of the lecture series on Large Scale Machine Learning.
+- A1 - Implemented Boolean Retrieval System to answer wild card queries using the schemes discussed in the class. 
+- A2 - Implemented Ranked Retrieval System to answer free text queries using the schemes discussed in the class. 
+- A3 - Implemented a Text Classification System using Naive Bayes, Rocchio, and KNN Algorithms. 
+
+Also analyzed the impact of different optimization techniques such as feature selection, champion lists, cluster pruning, etc. on the performance of implemented systems.
